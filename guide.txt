@@ -1,0 +1,5 @@
+1) change name file to : input.csv
+2) run python file
+3) find all "$@!" and replace to ctrl + shift + j
+4) merage to column with function =CONCATENATE(C3, " ", D3)
+5) and copy column in text file and paste again in excel
